@@ -20,3 +20,4 @@ terraform apply
 ## Terraform installed
 ## AWS CLI configured
 ## Make sure you have a valid key pair in AWS and set your region.
+# Test
