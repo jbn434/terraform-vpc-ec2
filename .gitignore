@@ -1,6 +1,0 @@
-*.pem
-.terraform/
-terraform.tfstate.backup
-*.tfvars
-.crash
-terraform.tfstate
